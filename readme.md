@@ -1,5 +1,9 @@
-# 論文読み会
+# 2024_B4_seminar
+## 概要
+東京都立大学 塩田研究室 B4ゼミ
+2024.
 
+## 目次
 - 1st
   - 話者照合となりすまし検出に関する論文を読んでくる
   - Automatic speaker verification systems and spoof detection techniques: review and analysis
