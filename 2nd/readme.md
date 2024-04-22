@@ -1,0 +1,11 @@
+# B4ゼミ第2回
+  - VPNをインストールし，家（学外ネットワーク）から研究室へアクセスできるか確認
+  - 自分のノートから研究室マシンへログインできるか試す
+    - 理解したらVsCodeからも接続してみる
+  - 研究室のローカルページを眺める
+  - notionに論文を1つ追加してみる
+    - https://link.springer.com/article/10.1007/s11042-023-15824-w
+  - anacondaの環境構築をし，適当なpythonスクリプトを書いてみる
+    - see: `/home/ymgt/ShiotaLab/conda-test`
+    - anaconda, upgradeがうまくいかないし，提供されてないパッケージがある(conda-forgeにはあるけど，forge経由でもうまくいかない)
+      - dockerでやってみていいですか，dockerならpython以外も包括的に環境管理できると思うので
