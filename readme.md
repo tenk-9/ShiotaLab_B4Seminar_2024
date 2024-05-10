@@ -22,3 +22,9 @@
   - notionに追加した論文のまとめを書き直す
   - もう一つよさげな論文を探してまとめる
   - 輪講のChapter1をやってくる
+
+- 4th
+  - chapter3, 4
+  - できれば論文
+  - 全てできれば，VoxCeleb trainer on git
+    - pretrainmodelをつかい，testのところだけ
