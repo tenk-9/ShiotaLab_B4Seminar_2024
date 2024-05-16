@@ -17,8 +17,19 @@
   - 研究室のローカルページを眺める
   - notionに論文を1つ追加してみる
   - anacondaの環境構築をし，適当なpythonスクリプトを書いてみる
+ 
+- 3rd
+  - notionに追加した論文のまとめを書き直す
+  - もう一つよさげな論文を探してまとめる
+  - 輪講のChapter1をやってくる
 
-- Nth
+- 4th
+  - chapter3, 4
+  - できれば論文
+  - 全てできれば，VoxCeleb trainer on git
+    - pretrainmodelをつかい，testのところだけ
+
+- 5th
   - GMMの学習方法
     - EMアルゴリズムとか
   - GMM-SVMまで，余力があれば
